@@ -36,7 +36,7 @@ const Portfolio = () => {
       hero: {
         greeting: "👋 Welcome to my portfolio",
         im: "Hi, I'm",
-        name: "Zhang Ming",
+        name: "Tobias",
         role: "Full Stack Developer",
         desc: "Focused on building exceptional digital experiences. I love transforming complex ideas into elegant code, prioritizing details, performance, and user experience.",
         btnProject: "View Work",
